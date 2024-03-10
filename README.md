@@ -84,7 +84,6 @@
  </tr>
 </table>
 <br/>
-</br>
 <p>
 
 # Github stats
