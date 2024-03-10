@@ -13,7 +13,7 @@
 # 💻 Main tools and technologies
 
 <p>
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
