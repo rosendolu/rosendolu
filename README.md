@@ -12,7 +12,7 @@
 
 # 💻 Main tools and technologies
 
-<div style="display: flex; justify-conent:flex-start;align-items:center">
+<p>
 <table align="left">
   <tr>
     <td align="center" width="96">
@@ -85,7 +85,7 @@
 </table>
 <br/>
 </br>
-</div>
+<p>
 
 # Github stats
 
