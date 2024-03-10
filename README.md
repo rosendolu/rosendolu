@@ -13,7 +13,7 @@
 # 💻 Main tools and technologies
 
 <div style="display: flex; justify-conent:flex-start;align-items:center">
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
@@ -83,7 +83,6 @@
     </td>
  </tr>
 </table>
-<br><br>
 </div>
 
 # Github stats
