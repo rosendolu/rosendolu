@@ -95,26 +95,26 @@
 <a href="https://github.com/rosendolu">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rosendolu&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="github-readme-stats"/>
 </a>
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/rosendolu">
     <img  width="48%"  src="https://github-readme-streak-stats.herokuapp.com?user=rosendolu&theme=dark&hide_border=true" alt="GitHub Streak" />
 </a>
 <p/>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@rosendolu">
+    <a href="https://github.com/rosendolu">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=rosendolu&theme=react-dark&hide_border=true&hide_title=false&area=true" width="96%" alt="activity graph">
     </a>
 </p>
 
 <!-- activity graph heroku-app end -->
 <p align="center">
-<!-- <a href="https://wakatime.com/@rosendolu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rosendolu&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@rosendolu's wakatime stats"/></a> -->
+<!-- <a href="https://github.com/rosendolu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rosendolu&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@rosendolu's wakatime stats"/></a> -->
 <a href="https://github.com/rosendolu?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rosendolu&theme=onestar&no-frame=true&column=5&row=2"  width="96%" alt="@rosendolu's trophy stats"/></a>
 </p>
 
 <p align="center">
-<a href="https://gist.github.com/rosendolu"><img src="https://profile-counter.glitch.me/rosendolu/count.svg" alt="rosendolu`s Visitor's Count" /></a>
+<a href="https://github.com/rosendolu"><img src="https://profile-counter.glitch.me/rosendolu/count.svg" alt="rosendolu`s Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
