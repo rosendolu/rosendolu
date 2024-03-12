@@ -125,8 +125,17 @@
 
 # What I did?
 
-- Electron live app
-- Full stack wechat miniprogram(Koa + Redis + PostreSQL)
+**Coverage**
+
+- Timeline video editor(React, ffmpeg)
+- Richtext editor(React, vue , Slate)
+- AI Live Client（Electron, React）
+- E-commerce platform(React，antd,Micro-FrontEnd)
+- DApps (ICP based, Rust, React)
+- Wechat miniprogram(wxss, wxs, wxml, Koa, Redis, PostreSQL)
+- CMS(React，antd)
+
+<!-- - Cross-platform mobile apps(React-native，antd) -->
 
 <details close>
 <summary>Do you want to see my past work?</summary>
