@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hello! 👋 Who am I?
+# Hello! 👋 Who am I? [![Hits](https://hits.sh/github.com/rosendolu.svg?label=Profile%20views&extraCount=509)](https://hits.sh/github.com/rosendolu/)
 
 <div>
 <br/>
@@ -113,9 +113,9 @@
 <a href="https://github.com/rosendolu?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rosendolu&theme=onestar&no-frame=true&column=5&row=2"  width="96%" alt="@rosendolu's trophy stats"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/rosendolu"><img src="https://profile-counter.glitch.me/rosendolu/count.svg" alt="rosendolu`s Visitor's Count" /></a>
-</p>
+</p> -->
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
