@@ -127,13 +127,13 @@
 
 **Coverage**
 
-- Timeline video editor(React, ffmpeg)
-- Richtext editor(React, vue , Slate)
-- AI Live Client（Electron, React）
-- E-commerce platform(React，antd,Micro-FrontEnd)
+- Timeline video editor(React, FFmpeg)
+- Richtext editor(React, Vue , Slate)
+- AI Live desktop apps（Electron, React）
+- E-commerce platform(React，Antd,Micro-FE)
 - DApps (ICP based, Rust, React)
-- Wechat miniprogram(wxss, wxs, wxml, Koa, Redis, PostreSQL)
-- CMS(React，antd)
+- Wechat miniprogram(Koa, Redis, PostreSQL)
+- CMS(React，Antd)
 
 <!-- - Cross-platform mobile apps(React-native，antd) -->
 
