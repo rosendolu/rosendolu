@@ -12,6 +12,9 @@
 
 # 💻 Main tools and technologies
 
+<details close>
+<summary>Common tools & technology</summary>
+
 <p>
 <table align="center">
   <tr>
@@ -86,6 +89,8 @@
 <br/>
 <p>
 
+</details>
+
 # Github stats
 
 <p align="center">
@@ -117,7 +122,8 @@
 <a href="https://github.com/rosendolu"><img src="https://profile-counter.glitch.me/rosendolu/count.svg" alt="rosendolu`s Visitor's Count" /></a>
 </p> -->
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<!--
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"> -->
 
 # Reach out to me
 
@@ -125,7 +131,8 @@
 
 # What I did?
 
-**Coverage**
+<details close>
+<summary>Do you want to see my past work?</summary>
 
 - Timeline video editor(React, FFmpeg)
 - Richtext editor(React, Vue , Slate)
@@ -137,11 +144,10 @@
 
 <!-- - Cross-platform mobile apps(React-native，antd) -->
 
-<details close>
-<summary>Do you want to see my past work?</summary>
-
 ## Electron
 
 ## React
+
+## NodeJs
 
 </details>
