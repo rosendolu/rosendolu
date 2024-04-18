@@ -115,7 +115,7 @@
 <!-- activity graph heroku-app end -->
 <p align="center">
 <!-- <a href="https://github.com/rosendolu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rosendolu&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@rosendolu's wakatime stats"/></a> -->
-<a href="https://github.com/rosendolu?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rosendolu&theme=onestar&no-frame=true&column=5&row=2"  width="96%" alt="@rosendolu's trophy stats"/></a>
+<a href="https://github.com/rosendolu?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=rosendolu&theme=onestar&no-frame=true&column=5&row=1"  width="96%" alt="@rosendolu's trophy stats"/></a>
 </p>
 
 <!-- <p align="center">
