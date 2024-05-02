@@ -2,13 +2,10 @@
 
 # Hello! 👋 Who am I? [![Hits](https://hits.sh/github.com/rosendolu.svg?label=Profile%20views&extraCount=509)](https://hits.sh/github.com/rosendolu/)
 
-<div>
-<br/>
-- 🔭 Full-stack developer with 5+ years of FE experience. 2+ years of FE team leader experience<br/>
-- ⚔️ Familiar with FE development frameworks like React, Vue, Tailwind, TanstackQuery, Material UI, Antd, Vite as well as back-end technologies like NodeJs, Rust<br/>
-- 🛠️ Extensive experience in performance optimization, project engineering, domain best practices, project infrastructure development, code style, formatting.（chrome devtools,eslint, typescript, prettier, husky,commitizen）<br/>
-- 👍 Experienced in DevOps, CI/CD, Github workflows, Ubuntu O&M, Nginx, Docker, Redis, MongoDB, PostgreSQL<br/>
-</div>
+- 🔭 Full-stack developer with 5+ years of experience.
+- ⚔️ Familiar with front-end tech like `react`, `vue`,`electron`, `vite` as well as back-end technologies like `nodeJs`, `rust`.
+- 🛠️ Extensive experience in `canvas`,`performance optimization`,`wasm`, `obs`,`ffmpeg`.
+- 👍 Experienced in DevOps, CI/CD, Github workflows, Ubuntu O&M, Nginx, Docker, Redis, MongoDB, PostgreSQL.
 
 # 💻 Main tools and technologies
 
@@ -134,20 +131,16 @@
 <details close>
 <summary>Do you want to see my past work?</summary>
 
-- Timeline video editor(React, FFmpeg)
-- Richtext editor(React, Vue , Slate)
-- AI Live desktop apps（Electron, React）
-- E-commerce platform(React，Antd,Micro-FE)
-- DApps (ICP based, Rust, React)
-- Wechat miniprogram(Koa, Redis, PostreSQL)
-- CMS(React，Antd)
+- Timeline video editor(react,konva, ffmpeg)
+- Richtext editor(react, vue , slate)
+- AI Live client software（electron,obs,virtual webcam）
+- E-commerce platform(react，antd,micro-fe)
+- Dapps (ICP chain based, rust, react)
+- Wechat miniprogram(koa, redis, postreSQL)
+- CMS(react，antd)
 
-<!-- - Cross-platform mobile apps(React-native，antd) -->
+## timeline video editor
 
-## Electron
-
-## React
-
-## NodeJs
+## [rosendofun.service](https://github.com/rosendolu/rosendofun.service)
 
 </details>
