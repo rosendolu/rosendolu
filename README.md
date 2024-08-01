@@ -142,13 +142,13 @@
 ## Timeline video editor
 
 <p>
-<video src='./asserts/timeline.mp4' width="600" >
+<video src='./asserts/timeline.mp4' width="600"/>
 </p>
 
 ## PPT mode video editor
 
 <p>
-<video src='./asserts/ppt.mp4' width="600" >
+<video src='./asserts/ppt.mp4' width="600" />
 </p>
 
 ## Rust crate financial indicators
