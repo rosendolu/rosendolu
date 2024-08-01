@@ -139,7 +139,23 @@
 - Wechat miniprogram(koa, redis, postreSQL)
 - CMS(react，antd)
 
-## timeline video editor
+## Timeline video editor
+
+<p>
+<video src='./asserts/timeline.mp4' width="600" >
+</p>
+
+## PPT mode video editor
+
+<p>
+<video src='./asserts/ppt.mp4' width="600" >
+</p>
+
+## Rust crate financial indicators
+
+[financial_indicators](https://crates.io/crates/financial_indicators)
+
+## Live software
 
 ## [rosendofun.service](https://github.com/rosendolu/rosendofun.service)
 
