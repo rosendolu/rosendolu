@@ -157,6 +157,10 @@
 
 ## Live software
 
+<p>
+<img src="asserts/live.webp" />
+</p>
+
 ## [rosendofun.service](https://github.com/rosendolu/rosendofun.service)
 
 </details>
