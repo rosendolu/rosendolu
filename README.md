@@ -122,11 +122,11 @@
 <!--
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"> -->
 
-# Reach out to me
+<!-- # Reach out to me
 
-[To contact me](https://gravatar.com/rosendofun)
+[To contact me](https://gravatar.com/rosendofun) -->
 
-# What I did?
+<!-- # What I did?
 
 <details close>
 <summary>Do you want to see my past work?</summary>
@@ -163,4 +163,4 @@
 
 ## [rosendofun.service](https://github.com/rosendolu/rosendofun.service)
 
-</details>
+</details> -->
