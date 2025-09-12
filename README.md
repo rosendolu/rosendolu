@@ -126,7 +126,7 @@
 
 [To contact me](https://gravatar.com/rosendofun) -->
 
-<!-- # What I did?
+# What I did?
 
 <details close>
 <summary>Do you want to see my past work?</summary>
@@ -163,4 +163,4 @@
 
 ## [rosendofun.service](https://github.com/rosendolu/rosendofun.service)
 
-</details> -->
+</details>
