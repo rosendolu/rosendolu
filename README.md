@@ -2,11 +2,11 @@
 
 # Hello! 👋 Who am I? [![Hits](https://hits.sh/github.com/rosendolu.svg?label=Profile%20views&extraCount=509)](https://hits.sh/github.com/rosendolu/)
 
-- 🔭 Full-stack developer with extensive development experience.
-- ⚔️ Familiar with front-end tech like `react`, `vue`, `electron`, `vite` as well as back-end technologies like `nodeJs`, `rust`.
-- 🛠️ Extensive experience in `canvas`, `performance optimization`, `wasm`, `obs`, `ffmpeg`.
+- 🔭 Full-stack `Vibe Coding` developer with extensive development experience.
+- ⚔️ Familiar with front-end tech like `react`, `vue`, `electron`, `vite` as well as back-end technologies like `nodeJs`, `rust` `python`.
+- 🛠️ Extensive experience in `canvas`,`vscode extension`, `performance optimization`, `wasm`, `obs`, `ffmpeg`.
 - 👍 Experienced in DevOps, CI/CD, Github workflows, Ubuntu O&M, Nginx, Docker, Redis, MongoDB, PostgreSQL.
-- 🤖 Building AI-native tools: MCP servers, canvas editors, crypto analytics.
+- 🤖 Building AI-native tools: `ollama`,`MCP`,`Skills`,`Rules`,crypto analytics with `Cursor`,`Claude Code`.
 
 # 💻 Main tools and technologies
 
@@ -111,12 +111,14 @@
 # 🚀 Open Source Projects
 
 ## 🎨 [canvas-studio](https://github.com/rosendolu/canvas-studio)
+
 > Open-source canvas editor for live streaming rooms and video editing
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-draw.rosendo.fun-blue)](https://draw.rosendo.fun)
 ![TypeScript](https://img.shields.io/badge/TypeScript-React%20%2B%20Vite%20%2B%20Konva-3178C6?logo=typescript)
 
 **Key Features:**
+
 - 🖼️ Static image elements — background, sticker, product
 - 🎭 Avatar mask with circular clip, drag & resize
 - 💬 Bubble text with inline double-click editing
@@ -127,6 +129,7 @@
 ---
 
 ## 🪙 [crypto-mcp-server](https://github.com/rosendolu/crypto-mcp-server) 🚧
+
 > MCP server for cryptocurrency market data, trading & technical analysis
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.gg/mJ8cdaJ5rg)
@@ -135,12 +138,14 @@
 **Supports:** Binance · Gate · OKX · all CCXT exchanges
 
 **Key Features:**
+
 - 📈 Kline analysis: MACD, Bollinger Bands, KDJ, EMA, RSI
 - 🔄 Cross-exchange arbitrage analytics
 - 📊 Unified multi-account portfolio view
 - 🤖 Multi-symbol automated trading
 
 **Quick Install (Cursor / Claude):**
+
 ```json
 {
   "Crypto MCP Server": {
@@ -155,21 +160,25 @@
   }
 }
 ```
+
 [![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=Crypto%20MCP%20Server&config=eyJjb21tYW5kIjoibnB4IC15IGNyeXB0by1tY3Atc2VydmVyIiwiZW52Ijp7IkJJTkFOQ0VfQVBJX0tFWSI6IiIsIkJJTkFOQ0VfU0VDUkVUIjoiIiwiR0FURV9BUElfS0VZIjoiIiwiR0FURV9TRUNSRVQiOiIifX0%3D)
 
 ---
 
 ## 🚀 [cursor-rules-deploy](https://github.com/rosendolu/cursor-rules-deploy) ⭐ 37
+
 > CLI tool for deploying Cursor AI rules and templates
 
 ```bash
 npx cursor-rules-deploy
 ```
+
 Supercharge your Cursor AI workflow with one-command rule deployment.
 
 ---
 
 ## 📈 [financial_indicators](https://github.com/rosendolu/financial_indicators) ⭐ 9
+
 > Rust library for financial technical analysis
 
 [![Crates.io](https://img.shields.io/crates/v/financial_indicators.svg)](https://crates.io/crates/financial_indicators)
@@ -185,25 +194,12 @@ financial_indicators = "*"
 ---
 
 ## 🛠️ [FePilot](https://github.com/rosendolu/FePilot)
+
+[![alt text](asserts/node-deps-tree.png)](https://marketplace.visualstudio.com/items?itemName=rosendolu.node-deps-tree)
+
 > VS Code extension toolkit for frontend development efficiency
 
 Node dependency tree · React component tooling · Dev automation
-
----
-
-## 🔧 [automate-hooks](https://github.com/rosendolu/automate-hooks)
-> Collection of webhooks for daily automation workflows
-
-```bash
-curl -o- https://raw.githubusercontent.com/rosendolu/automate-hooks/main/install.sh | bash
-```
-
----
-
-## 🔍 [electron-dump-cracker](https://github.com/rosendolu/electron-dump-cracker)
-> Parse Electron crash dump files to identify failure points
-
-Supports Breakpad / Crashpad dump analysis across platforms.
 
 ---
 
@@ -232,16 +228,10 @@ Supports Breakpad / Crashpad dump analysis across platforms.
 <img src="asserts/ppt.webp" />
 </p>
 
-## Rust crate financial indicators
-
-[financial_indicators](https://crates.io/crates/financial_indicators)
-
 ## Live software
 
 <p>
 <img src="asserts/live.webp" />
 </p>
-
-## [rosendofun.service](https://github.com/rosendolu/rosendofun.service)
 
 </details>
