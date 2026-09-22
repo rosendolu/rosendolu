@@ -2,7 +2,7 @@
 
 # Hello! 👋 Who am I? [![Hits](https://hits.sh/github.com/rosendolu.svg?label=Profile%20views&extraCount=509)](https://hits.sh/github.com/rosendolu/)
 
-- 🔭 Full-stack `Vibe Coding` developer with extensive development experience.
+- 🔭 Full-stack developer with extensive development experience.
 - ⚔️ Familiar with front-end tech like `react`,`nextjs`, `vue`, `electron`, `vite` as well as back-end technologies like `nodeJs`, `rust` `python`.
 - 🛠️ Extensive experience in `canvas`,`vscode extension`, `performance optimization`, `wasm`, `obs`, `ffmpeg`.
 - 👍 Experienced in DevOps, CI/CD, Github workflows, Ubuntu O&M, Nginx, Docker, Redis, MongoDB, PostgreSQL.
