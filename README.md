@@ -2,11 +2,11 @@
 
 # Hello! 👋 Who am I? [![Hits](https://hits.sh/github.com/rosendolu.svg?label=Profile%20views&extraCount=509)](https://hits.sh/github.com/rosendolu/)
 
-- 🔭 Full-stack developer with extensive development experience.
-- ⚔️ Familiar with front-end tech like `react`,`nextjs`, `vue`, `electron`, `vite` as well as back-end technologies like `nodeJs`, `rust` `python`.
-- 🛠️ Extensive experience in `canvas`,`vscode extension`, `performance optimization`, `wasm`, `obs`, `ffmpeg`.
-- 👍 Experienced in DevOps, CI/CD, Github workflows, Ubuntu O&M, Nginx, Docker, Redis, MongoDB, PostgreSQL.
-- 🤖 Building AI-native tools: `ollama`,`MCP`,`Skills`,`Rules`,crypto analytics with `Cursor`,`Claude Code`.
+- 🔭 Full-stack developer with extensive experience building and shipping end-to-end products.
+- ⚔️ Front-end: `React`, `Next.js`, `Vue`, `Electron`, `Vite`. Back-end: `Node.js`, `Rust`, `Python`.
+- 🛠️ Deep expertise in `Canvas`, `VSCode Extension`, `Performance Optimization`, `WASM`, `OBS`, `FFmpeg`.
+- 👍 DevOps & Infra: CI/CD, GitHub Workflows, Ubuntu O&M, `Nginx`, `Docker`, `Redis`, `MongoDB`, `PostgreSQL`.
+- 🤖 AI Agent & LLM engineering: model fine-tuning (SFT / LoRA), agent harness design, multi-agent orchestration with `Pydantic AI` / `Pydantic Graph`, and `MCP`-based tool integration for production systems.
 
 # 💻 Main tools and technologies
 
